@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Building Scalable Cloud Infrastructure**
 - 💬 Ask me about **Terraform, AWS, GCP, Docker, Jenkins, GitHub Actions**
-- 📫 Reach me at **kaushikparui47@gmail.com**
+- 📫 Reach me at **kaushikparui47@gmail.com** or **admin@kaushikparui.com**
 - ⚡ Fun fact: **I love automating things that most people still do manually!**
 
 ---
